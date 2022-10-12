@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/uop0hm5jl3cgglj2?svg=true)](https://ci.appveyor.com/project/Kochegaar/autoga6)
